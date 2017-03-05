@@ -260,11 +260,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-9",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cropped-cropped-cropped-cropped-cropped-cropped-crazy-gain-logo-2000x487.png",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -337,7 +337,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/trans-2000x1000.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -410,7 +410,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hulk-avengers-thor-2000x1050.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
